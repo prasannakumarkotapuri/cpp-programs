@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c\u002B\u002B\\friend class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21FFF94F-ECB0-4680-A8A0-E4B147B5E22F}|friend class\\friend class.vcxproj|E:\\c\u002B\u002B\\friend class\\friend class\\friend class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21FFF94F-ECB0-4680-A8A0-E4B147B5E22F}|friend class\\friend class.vcxproj|solutionrelative:friend class\\friend class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "friend class.cpp",
+              "DocumentMoniker": "E:\\c\u002B\u002B\\friend class\\friend class\\friend class.cpp",
+              "RelativeDocumentMoniker": "friend class\\friend class.cpp",
+              "ToolTip": "E:\\c\u002B\u002B\\friend class\\friend class\\friend class.cpp",
+              "RelativeToolTip": "friend class\\friend class.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-07T00:58:36.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
